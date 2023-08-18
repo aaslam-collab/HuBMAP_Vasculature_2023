@@ -22,9 +22,18 @@ The full dataset can be found here at https://www.kaggle.com/competitions/hubmap
 - Python
 - PyTorch
 
-# 📄 Quick Summary and Key Findings
-
-
-# 🔧 Future Considerations
+# 📄 Notes
+Makes sure to have the following folders:
+1. Create a main 'images' folder within your main project folder
+2. Then make sure to have the following folders:
+- output
+- test (where your training images are)
+- train (where the train images are)
+- train_images
+- train_masks
+- val_images
+- val_masks
+3. Make sure to have a 'saved_images' folder within your main project folder
 
 # 🧑 References 
+WIP
