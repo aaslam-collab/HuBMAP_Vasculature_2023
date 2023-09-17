@@ -32,6 +32,3 @@ Makes sure to have the following folders:
 - val_images
 - val_masks
 3. Make sure to have a 'saved_images' folder within your main project folder
-
-# 🧑 References 
-WIP
